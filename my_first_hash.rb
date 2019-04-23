@@ -2,7 +2,7 @@ def my_hash
   # use the literal constructor to set the variable, my_hash, equal to a hash with key/value pairs of your choice.
   
   my_hash = { 
-    :in_the_sky => ["stars", "moon"]
+    :in_the_sky => ["stars", "moon"],
     :under_the_sea => ["mermaids", "scary fish"]
   }
 end
